@@ -1,8 +1,8 @@
 import React from "react";
 function Hero() {
   return (
-    <div class="container p-5 mb-5 ">
-      <div class="row text-center">
+    <div className="container p-5  ">
+      <div className="row text-center">
         <img
           src="media/images/homeHero.png"
           alt="Zerodha home banner"
