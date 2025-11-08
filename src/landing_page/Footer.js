@@ -1,4 +1,5 @@
 import React from "react";
+
 function Footer() {
   return (
     <footer
@@ -11,7 +12,7 @@ function Footer() {
             <img src="media/images/logo.svg" alt="" style={{ width: "50%" }} />
             <p>© 2010 - 2025, Zerodha Broking Ltd. All rights reserved.</p>
           </div>
-          <div className="col">
+          <div className="col f">
             <p>Account</p>
             <a href="/">Open demat account</a>
             <br />
@@ -22,7 +23,7 @@ function Footer() {
             <a href="/">Fund transfer</a>
             <a href="/">MTF</a>
           </div>
-          <div className="col">
+          <div className="col f">
             <p>Support</p>
             <a href="/">Contact us</a>
             <a href="/">Status of your complaints</a>
@@ -34,7 +35,7 @@ function Footer() {
             <a href="/">Downloads</a>
             <a href="/">Support portal</a>
           </div>
-          <div className="col">
+          <div className="col f">
             <p>Company</p>
             <a href="/">About</a>
             <a href="/">Philosophy</a>
@@ -44,7 +45,7 @@ function Footer() {
             <a href="/">Zerodha.tech</a>
             <a href="/">Open source</a>
           </div>
-          <div className="col">
+          <div className="col f">
             <p>Quick links</p>
             <a href="/">Upcoming IPOs</a>
             <a href="/">Brokerage charges</a>
