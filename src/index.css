@@ -54,3 +54,36 @@ a {
   color: #9b9b9b;
   padding: 0 1rem;
 }
+
+
+
+
+#supportHero{
+  background-color: rgb(56, 126, 209);
+  color: white;
+}
+
+#supportHero a{
+  color: white;
+}
+
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 160px;
+  margin-right: 250px;
+}
+
+#supportHero input{
+  padding: 18px 50px;
+  width: 550px;
+  font-size: 20px;
+  border-radius: 10px;
+  border: none;
+}
+#support1{
+ padding-left: 150px;
+}
+#support1 a{
+  margin-right: 15px;
+}
